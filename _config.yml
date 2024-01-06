@@ -28,8 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  civol
 
 # Build settings
-# theme: minima
-theme: al-folio
+theme: minima
 plugins:
   - jekyll-feed
 
