@@ -21,7 +21,7 @@ HDLRuby is a language and framework for describing and simulating digital electr
 - As GitHub repository: [repository](https://github.com/civol/HDLRuby)
 
 
-## HTMLwave
+## HTMLWave
 
 HTMLWave is an HTML5-based wave viewer compatible with recent web browsers. It
 can read standard Verilog HDL VCD files and present their contents graphically.
